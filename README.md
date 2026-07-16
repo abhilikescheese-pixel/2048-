@@ -12,5 +12,8 @@ key features :
   
 - <img width="157" height="60" alt="image" src="https://github.com/user-attachments/assets/67989ce7-edef-45c0-b886-0c24014b308b" />
 
+how to play:
+file:///c%3A/Users/prave/OneDrive/Documents/ABHIS%20PROJECT/ABHIS%20PROJECT/2048.HTML
+
 thank you for kenny yip code for helping me make this game.
 
